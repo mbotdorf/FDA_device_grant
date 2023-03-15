@@ -1,0 +1,10 @@
+concept_id,concept_name,concept_code,vocabulary_id
+4083345,Neuromuscular kyphoscoliosis,281375006,SNOMED
+4069943,Neuromuscular scoliosis,203662005,SNOMED
+42535525,Neuromuscular scoliosis due to cerebral palsy,3.30471E+14,SNOMED
+762349,Neuromuscular scoliosis due to poliomyelitis,3.29841E+14,SNOMED
+37207796,Neuromuscular scoliosis of cervical spine,3.14341E+14,SNOMED
+762348,Neuromuscular scoliosis of lumbar spine co-occurrent and due to cerebral palsy,3.29741E+14,SNOMED
+37207797,Neuromuscular scoliosis of lumbosacral spine,3.14371E+14,SNOMED
+762354,Neuromuscular scoliosis of thoracolumbar spine co-occurrent and due to cerebral palsy,3.30521E+14,SNOMED
+72418,Scoliosis deformity of spine,298382003,SNOMED
